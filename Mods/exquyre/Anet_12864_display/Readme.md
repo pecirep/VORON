@@ -4,3 +4,5 @@ I don't have the standard RepRap Discount Full Graphics Display, but a very simi
 It's the same tpye of display, but the controls are moved to the side and there is no sdcard slot. The pinout is also different, you can't just connect it to the standard EXP1 and EXP2 connectors.
 Use the stock arms from v2.1
 No step files because I did this in blender (sorry...)
+
+![display](Anet_12864_display.jpg)
